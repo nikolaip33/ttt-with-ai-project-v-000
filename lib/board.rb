@@ -15,7 +15,7 @@ class Board
   end
 
   def position(input)
-    cells[input]
+    cells[input.to_i-1]
   end
 
   def turn_count
