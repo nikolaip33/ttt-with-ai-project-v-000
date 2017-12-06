@@ -2,6 +2,10 @@
 
 require_relative '../config/environment'
 
+<<<<<<< HEAD
 # Genesis.new.activate
+=======
+#Genesis.new.activate
+>>>>>>> 6df10d66d4a17ddd6a2c5ab17c9a08f67637b32c
 Genesis.new.just_ai
 # Genesis.new.ai_fail
