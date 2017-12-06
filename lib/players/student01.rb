@@ -1,5 +1,4 @@
 module Players
-<<<<<<< HEAD
   class Student01 < Player
     WIN_COMBINATIONS = [[0,1,2],
                         [3,4,5],
@@ -181,4 +180,3 @@ end
         end
     end
 end
->>>>>>> 6df10d66d4a17ddd6a2c5ab17c9a08f67637b32c
