@@ -95,7 +95,6 @@ module Players
     end
   end
 end
-=======
     class Student01 < Player
         WIN_COMBINATIONS = [
         [0,1,2],
